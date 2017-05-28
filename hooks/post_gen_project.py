@@ -42,4 +42,4 @@ def generate_i18n_locales():
 
 
 rename_kv_file()
-#generate_i18n_locales()
+generate_i18n_locales()
