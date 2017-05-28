@@ -16,6 +16,13 @@ Features
 * ``Makefile`` featuring several targets for important tasks such as ``coverage`` and ``apk``
 * Comprehensive ``README.rst`` file that contains useful information about your app
 
+Windows Requirements
+--------------------
+On Windows, make sure you have the following installed and configured:
+
+* make - http://gnuwin32.sourceforge.net/packages/make.htm
+* gettext - http://gnuwin32.sourceforge.net/packages/gettext.htm
+* Add to your PATH variable - Set the path in "System - Advanced system settings - Environment Variables - PATH"
 
 Usage
 -----
