@@ -29,6 +29,11 @@ Depending on the features that you want to use, you do require additional libs t
 * `Sphinx`_ - generate a readable ``html`` documentation
 * `Buildozer`_ - deploy your app to an Android mobile device
 
+On Windows, make sure you have the following installed and configured:
+
+* make - http://gnuwin32.sourceforge.net/packages/make.htm
+* gettext - http://gnuwin32.sourceforge.net/packages/gettext.htm
+* Add to your PATH variable - Set the path in "System - Advanced system settings - Environment Variables - PATH"
 
 Installation
 ------------
